@@ -31,6 +31,10 @@ p {
   color: #ff6f00;
 }
 
+.side-nav {
+  width: 200px;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
